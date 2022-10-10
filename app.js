@@ -1,12 +1,16 @@
 let TIME_LIMIT = 60;
 
 let quotes_array = [
-  "Push yourself, because no one else is going to do it for you.",
-  "Failure is the condiment that gives success its flavor.",
-  "Wake up with determination. Go to bed with satisfaction.",
-  "It's going to be hard, but hard does not mean impossible.",
-  "Learning never exhausts the mind.",
-  "The only way to do great work is to love what you do.",
+  "She told me her name was Billie Jean, as she caused a scene",
+  "Then every head turned with eyes that dreamed of being the one",
+  "Who will dance on the floor in the round",
+  "People always told me be careful of what you do",
+  "And don't go around breaking young girls' hearts",
+  "And mother always told me be careful of who you love",
+  "And be careful of what you do 'cause the lie becomes the truth",
+  "Billie Jean is not my lover",
+  "She's just a girl who claims that I am the one",
+  "But the kid is not my son",
 ];
 
 let timer_text = document.querySelector(".curr_time");
