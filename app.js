@@ -1,4 +1,4 @@
-let TIME_LIMIT = 60;
+let TIME_LIMIT = 90;
 
 let quotes_array = [
   "She told me her name was Billie Jean, as she caused a scene",
